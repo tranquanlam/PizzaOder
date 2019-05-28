@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name":"Đế Bánh",
+        "price":"10$",
+        "img":"https://lh3.googleusercontent.com/-Jp6TtM6Ny5Q/WOJW8rFzGaI/AAAAAAABDKQ/Xi3UT7qCLZo/s1000/nguyen-lieu-lam-banh-pizza-pho-bien.html-image00.png"
+    },
+    {
+        "id":2,
+        "name":"Nước sốt",
+        "price":"5$",
+        "img":"https://lh3.googleusercontent.com/-_sSIToR6zG8/WOJW_QhVWfI/AAAAAAABDKU/fnIRz3rC8N8/s1000/nguyen-lieu-lam-banh-pizza-pho-bien.html-image03.png"
+    },
+    {
+        "id":3,
+        "name":"Phô mai",
+        "price":"10$",
+        "img":"https://lh3.googleusercontent.com/-dGgGGSX9UqQ/WOJXCKBwdEI/AAAAAAABDKY/_9fOq4nwXUk/s1000/nguyen-lieu-lam-banh-pizza-pho-bien.html-image02.png"
+    },
+    {
+        "id":4,
+        "name":"Thịt xông khói",
+        "price":"9.6$",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNNQQK-oBxgR4NKkLsJXSIqWqPD6aK1adHQ_js8qa_Qgm2_ar3"
+    },
+    {
+        "id":5,
+        "name":"Thit zăm bông",
+        "price":"12$",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBVZwUcdfzaA25XM6xfQvPDD-gXCl2CIcmcXrkeQJfGU-stZw"
+    },
+    {
+        "id":6,
+        "name":"Xúc xích",
+        "price":"5$",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cQJT8MxZct0SwPW2g8uZ1qZgVtzZRXblpGXdAwuHWwKsNQoBmQ"
+    }
+]

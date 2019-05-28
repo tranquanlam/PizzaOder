@@ -1,0 +1,76 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+body p {
+  margin: 0px;
+}
+
+body .containerPizza {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 70% 30%;
+      grid-template-columns: 70% 30%;
+  -ms-grid-rows: auto;
+      grid-template-rows: auto;
+  margin: 100px;
+  font-weight: bold;
+}
+
+body .containerPizza .viewPro__title {
+  text-align: center;
+}
+
+body .containerPizza .addPro__topInfo {
+  margin-bottom: 1rem;
+}
+
+body .containerPizza .addPro__topInfo p,
+body .containerPizza .addPro__topInfo button {
+  display: inline-block;
+  text-align: center;
+  margin-right: 20px;
+}
+
+body .containerPizza .addPro__topInfo__title {
+  color: #999595;
+}
+
+body .containerPizza .addPro__topInfo__total {
+  background-color: #999595;
+  color: white;
+  border-radius: 10px;
+}
+
+body .containerPizza .addPro__listProduct .product {
+  border: 1px solid #d4d1d1;
+}
+
+body .containerPizza .addPro__listProduct .product__info .proName {
+  margin-top: 1rem;
+}
+
+body .containerPizza .addPro__listProduct .product__info .proPrice {
+  color: #999595;
+  font-weight: 100;
+  margin-bottom: 1rem;
+  font-size: 15px;
+}
+
+body .containerPizza .addPro__listProduct .product__control {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+body .containerPizza .addPro__listProduct .product__control .btn,
+body .containerPizza .addPro__listProduct .product__control .quality {
+  display: inline-block;
+  font-weight: bold;
+}
+
+body .containerPizza .addPro__listProduct .pay p, body .containerPizza .addPro__listProduct .pay .btn {
+  display: inline-block;
+  margin: 1rem 1rem;
+}
+/*# sourceMappingURL=pizza.css.map */
