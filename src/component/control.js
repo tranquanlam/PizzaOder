@@ -164,7 +164,7 @@ class control extends Component {
                 }
             }
         });
-        if (img <= 0) {
+        if (img <= 0) { 
 
             var element = document.getElementById("img__" + id);
             document.getElementById("viewPro").removeChild(element);
